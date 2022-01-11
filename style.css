@@ -1,0 +1,39 @@
+p{
+  /* font er color */
+  color: darkgrey;
+  /* background e ki box color */
+  background: black;
+  /* background er box height width koto hobe */
+  /* px */
+  height: 50px;
+  width: 200px;
+  /* % */
+  height: 200%;
+  width: 200%;
+  /* font er size  */
+  font-size: 16px;
+  font-size: 400%;
+
+}
+h1{
+  color: bisque;
+
+}
+h3{
+  color: bisque;
+}
+/* id te # bebhor kora hoise */
+#russia{
+  color: royalblue;
+}
+/* class te . bebhor kora hoise */
+.berani{
+  color: brown;
+}
+.vat{
+  font-size: 200%;
+}
+.kichuri{
+  background-color: cadetblue;
+
+}
