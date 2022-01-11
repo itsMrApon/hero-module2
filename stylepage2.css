@@ -1,0 +1,21 @@
+small{
+  color: lightblue;
+}
+/* dev bhebohar kora hoise box e r pura color pawar jonno */
+.blog1{
+  background-color: lightblue;
+  /* charpashe border dewar jonno bebhoar hoy */
+  border: 2px solid yellow;
+  /* border: 5px dotted yellow; */
+  /* border: 5px dashed yellow; */
+  /* charpashe sharpness komate bebhoar hoy */
+  border-radius: 15px;
+  /* charpashe margin use e bebhoarer hoy(top-right-bottom-left) 40upreniche  10 bammedanne*/
+  margin: 40px 10px;
+  /* margin-bottom: 40px; */
+
+}
+/* span bebhoar kora hoise blog koyekta word alada pawar jonno */
+.blog1name{
+  color: red;
+}
